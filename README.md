@@ -1,2 +1,2 @@
-# Desafio_DIO
-Desafio de Projeto sobre GIT/GitHub
+# Desafio de Projeto sobre o Git/GitHub 💻
+Repositório criado para od esafio de projeto
